@@ -10,13 +10,13 @@ const Listas = () => {
             <ListItemIcon>
                 <CloudQueue />
             </ListItemIcon>
-            <ListItemText primary='Mi primer elemento' />
+            <ListItemText primary='My first item' />
         </ListItem>
         <ListItem button>
             <ListItemIcon>
                 <Deck />
             </ListItemIcon>
-            <ListItemText primary='Mi segundo elemento' />
+            <ListItemText primary='My second item' />
         </ListItem>
         <Divider />
       </List>
